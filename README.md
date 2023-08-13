@@ -1,1 +1,1 @@
-# workout_tracker
+Workout tracking app built using JavaScript, elevated by the Leaflet library. Seamlessly map and track your fitness journey with interactive routes, real-time location updates, and customizable markers.
